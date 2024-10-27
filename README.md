@@ -12,8 +12,8 @@ Dependencies
   
 # Known Issues
 * Incomplete Functionality: The app does not fully work yet, as there are ongoing issues with Expo’s compatibility with certain network requests and dependencies. Testing is also limited by network configuration and platform restrictions.
-
-Installation
+  
+# Installation
 1. Clone the repository.
 2. Run npm install in the root directory.
 3. Start the backend server: node server.js.
