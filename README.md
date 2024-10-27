@@ -9,7 +9,8 @@ Simple UI: Users input the MAC address, IP address, and port for the target devi
 Dependencies
 * Expo: For cross-platform mobile development.
 * Node.js: Backend server for handling WoL packets, using the wake_on_lan package.
-* Known Issues
+  
+# Known Issues
 * Incomplete Functionality: The app does not fully work yet, as there are ongoing issues with Expo’s compatibility with certain network requests and dependencies. Testing is also limited by network configuration and platform restrictions.
 
 Installation
